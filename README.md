@@ -1,14 +1,23 @@
 # PhotonShield
  
-**Photon Shield assembly for no-noise visual stimulation during two-photon imaging in mice**
+**Photon Shield assembly for low-noise visual stimulation during two-photon imaging in mice**
 
-This repository contains the 3D CAD models of the **Photon Shield**, a modular optical shielding system designed for two-photon calcium imaging experiments combined with visual stimulation in mice. The system minimizes stray-light contamination while preserving experimental flexibility and fast handling.
+This repository contains the 3D CAD models of the **Photon Shield**, a modular optical shielding system designed for two-photon calcium imaging experiments combined with visual stimulation in mice.
+- Minimize stray-light contamination in a reproducible way
+- Simple reproduction and use
+- Compatible objectives:
+   - Olympus 10XSVMP 10×
+   - Nikon CFI75 LWD16× W 
+   - Olympus XLUMPlanFLN 20×
+- Suitable for awake recordings
 
 Detailed experimental validation, benchmarking, and use cases are described in the accompanying publication.
 
 > **Citation notice**  
 > If you use or modify these models, please cite the corresponding publication:  
-> **TODO (add DOI / journal reference)**
+> **3D Printed Photon Shield Assembly for Low-Noise Visual Stimulation During Two-Photon Imaging in Mice**
+> **Advanced Materials Technologies (accepted)**
+> **DOI:10.1002/admt.71290**
 
 ---
 
@@ -44,7 +53,7 @@ This is one side of the shield cylinder that should be mounted first onto the he
 
 ![Shield Front 10XSVMP derived v4](./Shield%20Front%2010XSVMP%20derived%20v4.jpg)
 
-This is the complementary part of the shield cylinder. We attach a ~20 cm long piece of black insulating tape to its outer surface, allowing it to overhang on both sides. After precise insertion, the overhanging parts are smoothed over from both sides to adhere to the other half of the shield. During the process, the microscope’s green illumination is used to make any misalignment visible.
+This is the complementary part of the shield cylinder. Attach a ~20 cm long piece of black insulating tape to its outer surface, allowing it to overhang on both sides. After precise insertion, the overhanging parts are smoothed over from both sides to adhere to the other half of the shield. During the process, the microscope’s green illumination is used to make any misalignment visible.
 
 
 ## Headholder cap derived v4
