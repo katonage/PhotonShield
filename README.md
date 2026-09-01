@@ -4,20 +4,20 @@
 
 This repository contains the 3D CAD models of the **Photon Shield**, a modular optical shielding system designed for two-photon calcium imaging experiments combined with visual stimulation in mice.
 - Minimize stray-light contamination in a reproducible way
-- Simple reproduction and use
+- Simple manufacturing and use
+- Suitable for awake recordings
 - Compatible objectives:
    - Olympus 10XSVMP 10×
    - Nikon CFI75 LWD16× W 
    - Olympus XLUMPlanFLN 20×
-- Suitable for awake recordings
 
 Detailed experimental validation, benchmarking, and use cases are described in the accompanying publication.
 
-> **Citation notice**  
-> If you use or modify these models, please cite the corresponding publication:  
-> **3D Printed Photon Shield Assembly for Low-Noise Visual Stimulation During Two-Photon Imaging in Mice**
-> **Advanced Materials Technologies (accepted)**
-> **DOI:10.1002/admt.71290**
+**Citation notice:** If you use or modify these models, please cite the following publication:  
+> G. Katona, A. Slézia, A. Dávid, Á. Petik, D. Hillier, I. Ulbert, A. Kaszás <br>
+> **3D Printed Photon Shield Assembly for Low-Noise Visual Stimulation During Two-Photon Imaging in Mice.** <br>
+> Advanced Materials Technologies (2026): e71290. <br>
+> [https://doi.org/10.1002/admt.71290](https://doi.org/10.1002/admt.71290) 
 
 ---
 
